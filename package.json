@@ -1,7 +1,7 @@
 {
     "name": "version-history",
     "version": "0.0.1",
-    "description": "",
+    "description": "The Version History plugin is an essential tool for efficiently managing updates to your WordPress plugin. It allows you to keep track of new versions of your plugin, provide clear information to users and facilitate the updating process.",
     "main": "README.md",
     "repository": {
         "type": "web",
@@ -11,5 +11,5 @@
         "SIDL CORPORATION"
     ],
     "author": "SIDL CORPORATION <support@sidl-corporation.fr> (https://www.sidl-corporation.fr/)",
-    "license": "GPL2"
+    "license": "GPL3"
 }
