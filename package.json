@@ -1,0 +1,15 @@
+{
+    "name": "version-history",
+    "version": "0.0.1",
+    "description": "",
+    "main": "README.md",
+    "repository": {
+        "type": "web",
+        "url": "https://github.com/SIDL-C0R0RATI0N/VERSION-HISTORY"
+    },
+    "keywords": [
+        "SIDL CORPORATION"
+    ],
+    "author": "SIDL CORPORATION <support@sidl-corporation.fr> (https://www.sidl-corporation.fr/)",
+    "license": "GPL2"
+}
