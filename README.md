@@ -8,7 +8,7 @@
 - Tags : wordpress, update, history, plugin
 - Requires at least : 6.1.1
 - Tested up to : 6.3
-- Stable tag : 0.0.1
+- Stable tag : 1.0.0
 - Language : en_US, fr_FR
 - License : GPL3
 - License URI : http://www.gnu.org/licenses/gpl-3.0.html
